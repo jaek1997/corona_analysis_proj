@@ -17,6 +17,39 @@ https://www.kaggle.com/kimjihoo/coronavirusdataset/kernels
 
 **데이터셋:** https://www.kaggle.com/kimjihoo/coronavirusdataset
 
+## 데이터 칼럼
+
+patient_info: 
+* sex
+* birth_year
+* age
+* country
+* province
+* city
+* desease
+* infection_case
+* infection_order
+* infected_by
+* contact_number
+* symptom_onset_date
+* confirmed_date
+* released_date
+* deceased_date
+* state
+
+time_age_data:
+* date
+* time
+* age
+* confirmed
+* deceased
+
+time_gender_data:
+* date
+* time
+* sex
+* confirmed
+* deceased
 
 ## 데이터 분석
 
