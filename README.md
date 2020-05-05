@@ -13,6 +13,8 @@
 
 **참고 사이트:** https://plotly.com/python/getting-started/?utm_source=mailchimp-jan-2015&utm_medium=email&utm_campaign=generalemail-jan2015&utm_term=bubble-chart
 
+https://www.kaggle.com/kimjihoo/coronavirusdataset/kernels
+
 **데이터셋:** https://www.kaggle.com/kimjihoo/coronavirusdataset
 
 
