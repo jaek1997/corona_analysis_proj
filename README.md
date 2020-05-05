@@ -8,8 +8,12 @@
 ## 코드, 리소스
 
 **Python 버젼:** 3.7
+
 **Packages:** pandas, numpy, sklearn, matplotlib, plotly, datetime, collections
+
 **참고 사이트:** https://plotly.com/python/getting-started/?utm_source=mailchimp-jan-2015&utm_medium=email&utm_campaign=generalemail-jan2015&utm_term=bubble-chart
+
+**데이터셋:** https://www.kaggle.com/kimjihoo/coronavirusdataset
 
 
 ## 데이터 분석
