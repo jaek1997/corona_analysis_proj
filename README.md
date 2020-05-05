@@ -18,7 +18,7 @@
 
 산업별 평균 연봉: 
 
-![alt text](gender_corona graph)
+![alt text](gender_corona graph.png)
 
 주(State)별 평균 연봉: 
 
